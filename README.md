@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Levyyyyyyyy
+- Ez a "GalaxOS" Github oldala
 
 <!---
 Levyyyyyyyy/Levyyyyyyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
